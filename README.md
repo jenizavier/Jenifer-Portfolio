@@ -1,5 +1,5 @@
 # Jenifer-Portfolio
-# Z. Jenifer - Data Scientist
+# Z. Jenifer - Certified Data Scientist
 
 Welcome to my portfolio! I'm a certified Data Scientist with expertise in Python, Machine Learning, and Data Visualization.
 
