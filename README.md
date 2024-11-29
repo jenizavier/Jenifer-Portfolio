@@ -22,7 +22,9 @@ Welcome to my portfolio! I'm a certified Data Scientist with expertise in Python
 - **Highlights**: Achieved R² score of 0.953, deployed an interactive pricing app.
 
 ## 🎓 Education & Certifications
-- **Master Data Science Program**, GUVI
-- **Certified Advanced Programming Professional**, IIT-M
+- **IIT-M Certified Advanced Programming Professional
+& Master Data Science** , GUVI GEEKNETWORK PRIVATE LIMITED
+
+- **Data Science Using Python Programming** , 360DigiTMG
 - **Machine Learning with Python**, IBM
 
