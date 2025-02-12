@@ -21,13 +21,13 @@ Welcome to my portfolio! I'm a certified Data Scientist with expertise in Python
 - **Tools**: Gradient Boosting, Streamlit, Scikit-Learn
 - **Highlights**: Achieved R² score of 0.953, deployed an interactive pricing app.
 
-### [4. AI Powered PDF Query System].
+### 4. AI Powered PDF Query System.
 - **Tools**: Streamlit, PyMuPDF, Sentence Transformers, scikit-learn
 - **Highlights**:  Extracts text from PDFs and performs semantic search for research queries
                    Uses transformer-based embeddings for accurate text retrieval
                    Provides instant answers from research papers based on user input
 
-### [5. PneuDetect - Deep Learning-based Pneumonia Detectio].
+### 5. PneuDetect - Deep Learning-based Pneumonia Detection.
 - **Tools**: TensorFlow, Keras , scikit-learn
 - **Highlights**:  CNN-based model for detecting pneumonia from chest X-rays
                    Achieved 98% accuracy with improved class balancing and augmentation
